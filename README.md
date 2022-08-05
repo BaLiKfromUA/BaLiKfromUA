@@ -7,7 +7,7 @@
 - 💻 Software Engineer with over 2 years of full-time experience in **Backend Development** and **Infrastructure**.
 - ♨️ My main instrument is **Java** but I am easy-going person in terms of technologies.
 - 🌱 I’m currently learning **Concurrency**, **Distributed Systems Design** and **Databases**.
-- 😍 Fascinated about **Distributed Systems** and **Software Infrastructure**. 
+- 😍 Fascinated about **Compiler Development** and **Software Infrastructure**. 
 
 ### 🌍 Links:
 
