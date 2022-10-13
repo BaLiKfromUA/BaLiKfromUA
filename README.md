@@ -1,6 +1,8 @@
-## “I'm smart enough to know that I'm dumb.” — Richard P. Feynman
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
-<img align="right" width="350" height="=250" src="https://i.pinimg.com/originals/62/f6/0e/62f60eb00055ce5a3580bd91559f9f94.gif">
+<!--## “I'm smart enough to know that I'm dumb.” — Richard P. Feynman
+
+<img align="right" width="350" height="=250" src="https://i.pinimg.com/originals/62/f6/0e/62f60eb00055ce5a3580bd91559f9f94.gif">-->
 
 ### ✨ About me:
 
