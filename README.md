@@ -16,7 +16,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/BaLiK_mem)
 [![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/balikfromua/)
-[![CV Badge](https://img.shields.io/badge/-Resume-red?style=for-the-badge)](https://docs.google.com/viewer?url=https://github.com/BaLiKfromUA/resume/raw/main/Valentyn_Yukhymenko.pdf)
 <!--
 **BaLiKfromUA/BaLiKfromUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
