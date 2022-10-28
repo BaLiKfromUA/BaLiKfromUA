@@ -12,10 +12,8 @@
 - 😍 Fascinated about **Compiler Development**, **Software Infrastructure** and **Dev Tools**. 
 - 👯 I’m looking to collaborate on any stuff related to topics mentioned in the previous line.
 
-### 🌍 Links:
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/BaLiK_mem)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/balikfromua/)
+<!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/BaLiK_mem)
+[![LinkedIn Badge](https://img.shields.io/badge/-Linked%20In-9cf?style=for-the-badge)](https://www.linkedin.com/in/balikfromua/)-->
 <!--
 **BaLiKfromUA/BaLiKfromUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
