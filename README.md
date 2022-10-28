@@ -9,7 +9,7 @@
 - 💻 Software Engineer with over 2 years of full-time experience in **Backend Development** and **Infrastructure**.
 - ♨️ My main instrument is **Java** but I am easy-going person in terms of technologies.
 - 🌱 I’m currently learning **Compiler Development** and **System Design**.
-- 😍 Fascinated about **Compiler Development**, **Software Infrastructure** and **Dev Tools**. 
+- 😍 Fascinated about **Programming Languages**, **Compiler Development**, **Software Infrastructure** and **Dev Tools**. 
 - 👯 I’m looking to collaborate on any stuff related to topics mentioned in the previous line.
 
 <!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/BaLiK_mem)
