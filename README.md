@@ -6,7 +6,7 @@
 
 ### ✨ About me:
 
-- 💻 oftware Engineer with more than 2 years of experience developing **Back-End Systems**, **Cross-Platform Applications**, and **Infrastructure**.
+- 💻 Software Engineer with more than 2 years of experience developing **Back-End Systems**, **Cross-Platform Applications**, and **Infrastructure**.
 - ♨️ My main instrument is **Java** but I am easy-going person in terms of technologies.
 - 🌱 I’m currently learning **Compiler Development** and **Concurrency**.
 - 😍 Fascinated about **Programming Languages**, **Compiler Development**, **CI/CD**. 
